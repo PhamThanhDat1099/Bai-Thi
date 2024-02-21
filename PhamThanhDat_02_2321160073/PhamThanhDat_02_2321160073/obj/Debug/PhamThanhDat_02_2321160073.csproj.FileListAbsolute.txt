@@ -1,0 +1,7 @@
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\bin\Debug\PhamThanhDat_02_2321160073.exe.config
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\bin\Debug\PhamThanhDat_02_2321160073.exe
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\bin\Debug\PhamThanhDat_02_2321160073.pdb
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\obj\Debug\PhamThanhDat_02_2321160073.csproj.AssemblyReference.cache
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\obj\Debug\PhamThanhDat_02_2321160073.csproj.CoreCompileInputs.cache
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\obj\Debug\PhamThanhDat_02_2321160073.exe
+D:\PhamThanhDat_02_2321160073\PhamThanhDat_02_2321160073\obj\Debug\PhamThanhDat_02_2321160073.pdb
